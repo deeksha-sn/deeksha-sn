@@ -321,7 +321,7 @@ Database Design
 
 <br>
 
-🌸 **Always curious • Always learning • Always building** 🌸
+### 🌸 Always Curious, Always Building 🌷
 
 </td>
 </tr>
