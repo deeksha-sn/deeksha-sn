@@ -1,34 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1DD,100:F48FB1&height=210&section=header&text=Deeksha%20SN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%26%20Engineering%20%E2%80%A2%20AI%20%26%20ML&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEAF2,50:F8A5C2,100:D8618F&height=210&section=header&text=Deeksha%20SN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%26%20Engineering%20%E2%80%A2%20AI%20%26%20ML&descAlignY=56&descSize=18&descColor=ffffff" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2800&pause=900&color=D8618F&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%8C%B8;Full-Stack+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Code+%E2%9C%A8;Always+Curious%2C+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2800&pause=900&color=D8618F&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast+%F0%9F%8C%B8;Software+Engineering+Enthusiast+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%90;Turning+Ideas+Into+Code+%E2%9C%A8;Always+Curious%2C+Always+Building+%F0%9F%8C%B7" />
 
 <br><br>
 
-<p>
 <img src="https://img.shields.io/badge/AI%20%26%20ML-F8A5C2?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SOFTWARE-E896C4?style=for-the-badge&logo=code&logoColor=white"/>
-<img src="https://img.shields.io/badge/BENGALURU-F2A8C4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/SOFTWARE-D291BC?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/BENGALURU-D8618F?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-<p>
+<br><br>
+
 <a href="https://deeksha-sn.github.io">
-<img src="https://img.shields.io/badge/🌷%20PORTFOLIO-F9A8D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌷%20PORTFOLIO-F8A5C2?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/deeksha-sn-87596734a/">
 <img src="https://img.shields.io/badge/💼%20LINKEDIN-D291BC?style=for-the-badge"/>
 </a>
 
-<a href="mailto:deekshasn18@gmail.com">
-<img src="https://img.shields.io/badge/💌%20EMAIL-F2A0C0?style=for-the-badge"/>
+<a href="https://github.com/deeksha-sn">
+<img src="https://img.shields.io/badge/💻%20GITHUB-D8618F?style=for-the-badge"/>
 </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=deeksha-sn&color=d8618f&style=flat-square&label=Profile+Views" />
+<a href="mailto:deekshasn18@gmail.com">
+<img src="https://img.shields.io/badge/💌%20EMAIL-F8A5C2?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=deeksha-sn&color=D8618F&style=flat-square&label=Profile+Views"/>
 
 </div>
 
@@ -38,6 +42,7 @@
 
 <table cellpadding="18" cellspacing="0" border="0">
 <tr>
+
 <td width="55%" bgcolor="#FFEAF2" valign="top">
 
 Hi! I'm **Deeksha SN**, a Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning** at Global Academy of Technology, Bengaluru.
@@ -46,12 +51,12 @@ I enjoy turning ideas into things that actually work. I learn best by **building
 
 I'm particularly interested in:
 
-🤖 Artificial Intelligence & Machine Learning  
-💻 Software Engineering  
-🌐 Full-Stack Development  
-👁️ Computer Vision  
-✨ Generative AI  
-🗄️ Databases & Backend Development
+🤖 **Artificial Intelligence & Machine Learning**  
+💻 **Software Engineering**  
+🌐 **Full-Stack Development**  
+👁️ **Computer Vision**  
+✨ **Generative AI**  
+🗄️ **Databases & Backend Development**
 
 </td>
 
@@ -162,7 +167,7 @@ Detects suspicious transactions using amount-based, location-based and frequency
 <br>
 
 <a href="https://github.com/deeksha-sn/FraudDetectionSystem">
-<img src="https://img.shields.io/badge/💻%20Repository-F2A0C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20Repository-F8A5C2?style=for-the-badge"/>
 </a>
 
 </td>
@@ -242,40 +247,31 @@ Database Design
 
 ---
 
-# 📊 GitHub Stats
+# 💻 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deeksha-sn&show_icons=true&hide_border=true&title_color=d8618f&icon_color=d8618f&text_color=555555&bg_color=ffeaf2" />
+<a href="https://github.com/deeksha-sn">
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-D8618F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeksha-sn&layout=compact&hide_border=true&title_color=d8618f&text_color=555555&bg_color=ffeaf2" />
+<a href="https://github.com/deeksha-sn?tab=repositories">
+<img src="https://img.shields.io/badge/🌷%20MY%20PROJECTS-F8A5C2?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/deeksha-sn?tab=stars">
+<img src="https://img.shields.io/badge/⭐%20STARS-D291BC?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/deeksha-sn?tab=followers">
+<img src="https://img.shields.io/badge/👥%20FOLLOWERS-D8618F?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deeksha-sn&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=12&margin-h=12" />
-
-</div>
-
----
-
-# 🔥 Coding Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=deeksha-sn&hide_border=true&background=FFEAF2&ring=D8618F&fire=F48FB1&currStreakLabel=D8618F&sideLabels=D8618F&dates=777777" />
-
-</div>
-
----
-
 # 🌱 Beyond Code
 
 <div align="center">
@@ -338,7 +334,7 @@ Database Design
 <div align="center">
 
 <a href="https://deeksha-sn.github.io">
-<img src="https://img.shields.io/badge/🌷%20Portfolio-F9A8D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌷%20Portfolio-F8A5C2?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/deeksha-sn-87596734a/">
