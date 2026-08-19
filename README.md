@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEAF2,50:F8A5C2,100:D8618F&height=210&section=header&text=Deeksha%20SN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%26%20Engineering%20%E2%80%A2%20AI%20%26%20ML&descAlignY=56&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFEAF2,50:F8A5C2,100:D8618F&amp;height=210&amp;section=header&amp;text=Deeksha%20SN&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Computer%20Science%20%26%20Engineering%20%E2%80%A2%20AI%20%26%20ML&amp;descAlignY=56&amp;descSize=18&amp;descColor=ffffff" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2800&pause=900&color=D8618F&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast+%F0%9F%8C%B8;Software+Engineering+Enthusiast+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%90;Turning+Ideas+Into+Code+%E2%9C%A8;Always+Curious%2C+Always+Building+%F0%9F%8C%B7" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=D8618F&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=AI+%26+ML+Enthusiast+%F0%9F%8C%B8;Software+Engineering+Enthusiast+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%90;Turning+Ideas+Into+Code+%E2%9C%A8;Always+Curious%2C+Always+Building+%F0%9F%8C%B7"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI%20%26%20ML-F8A5C2?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SOFTWARE-D291BC?style=for-the-badge&logo=code&logoColor=white"/>
-<img src="https://img.shields.io/badge/BENGALURU-D8618F?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-F8A5C2?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/SOFTWARE-D291BC?style=for-the-badge&amp;logo=code&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/BENGALURU-D8618F?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white"/>
 
 <br><br>
 
@@ -32,7 +32,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=deeksha-sn&color=D8618F&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=deeksha-sn&amp;color=D8618F&amp;style=flat-square&amp;label=Profile+Views"/>
 
 </div>
 
@@ -252,7 +252,7 @@ Database Design
 <div align="center">
 
 <a href="https://github.com/deeksha-sn">
-<img src="https://img.shields.io/badge/Explore%20My%20GitHub-D8618F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-D8618F?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 <br><br>
